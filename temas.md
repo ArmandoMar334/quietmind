@@ -32,7 +32,7 @@ Horario: America/Chihuahua. Formato de fila: número | tema | idea | publicació
 | 26 | Las huellas en la arena | Mira todo el camino que ya recorriste. | 2026-12-06 16:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 27 | La mano extendida | Pedir ayuda no es debilidad. | 2026-12-07 10:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 28 | Los que se fueron | Algunas despedidas son espacio para quien sí se queda. | 2026-12-07 16:00 | pendiente (relanzada 2026-11-24 11:35) |
-| 29 | "Mañana empiezo" | La palabra que más sueños ha enterrado. | 2026-12-08 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 29 | "Mañana empiezo" | La palabra que más sueños ha enterrado. | 2026-12-08 10:00 | programado (https://app.metricool.com/planner/calendar?blogId=8320706&openWithPostUuid=-2540946390302046073) |
 | 30 | 20 segundos de valor | Todo lo que cambia tu vida cabe en un momento de valentía. | 2026-12-08 16:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 31 | Tu yo de hace un año | No te estaría pidiendo perfección, estaría orgulloso. | 2026-12-09 10:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 32 | Pequeñas victorias | Celebra lo que nadie aplaude. | 2026-12-09 16:00 | pendiente (relanzada 2026-11-24 11:35) |
