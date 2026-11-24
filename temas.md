@@ -36,4 +36,4 @@ Horario: America/Chihuahua. Formato de fila: número | tema | idea | publicació
 | 30 | 20 segundos de valor | Todo lo que cambia tu vida cabe en un momento de valentía. | 2026-12-08 16:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 31 | Tu yo de hace un año | No te estaría pidiendo perfección, estaría orgulloso. | 2026-12-09 10:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 32 | Pequeñas victorias | Celebra lo que nadie aplaude. | 2026-12-09 16:00 | pendiente (relanzada 2026-11-24 11:35) |
-| 33 | Tu cuerpo es tu casa | El único lugar donde vas a vivir toda la vida. | 2026-12-10 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 33 | Tu cuerpo es tu casa | El único lugar donde vas a vivir toda la vida. | 2026-12-10 10:00 | programado (https://app.metricool.com/planner/calendar?blogId=8320706&openWithPostUuid=-4727772931786718813) |
