@@ -5,35 +5,35 @@ Horario: America/Chihuahua. Formato de fila: número | tema | idea | publicació
 
 | # | Tema | Idea | Publicación | Estado |
 |---|---|---|---|---|
-| 02 | Ellos también tuvieron tu edad | Los que admiras estuvieron perdidos justo donde tú estás. (Guion ya escrito en guiones/02_ellos_tambien_tuvieron_tu_edad.txt: úsalo tal cual.) | 2026-11-24 16:00 | fallido (relanzada 06:42 UTC: el proxy de salida sigue rechazando elevenlabsusercontent.com, "no rule or network setting allows this host"; no se regeneró la voz; ver log/2026-11-24_tarea_02-03_reintento.md) |
-| 03 | Si estás a punto de rendirte (el bambú) | Años sin crecer por fuera, construyendo raíces. | 2026-11-25 10:00 | fallido (red) 2026-11-24 corrida voces-existentes: creative_get_flow del flow kMsgEN2FhXNwr95ugO7O no trae content_url ni master_url y creative_get_flow_run_status no devuelve generaciones (no hay session_ids); storage.elevenlabsusercontent.com sigue dando "curl: (56) CONNECT tunnel failed, response 502"; no se generó voz nueva; ver log/2026-11-24_tarea_03-04_voces.md) |
-| 04 | El río y la piedra | El agua no rompe la piedra por fuerza, sino por constancia. | 2026-11-25 16:00 | fallido (red) 2026-11-24 corrida voces-existentes: flow h32pZCkEATi64eS2QVzY sin content_url/master_url ni generaciones consultables; storage.elevenlabsusercontent.com da "curl: (56) CONNECT tunnel failed, response 502"; no se generó voz nueva; ver log/2026-11-24_tarea_03-04_voces.md) |
-| 05 | La oruga | Nadie le explica que la oscuridad del capullo es para volar. | 2026-11-26 10:00 | fallido (mismo bloqueo; no se generó voz para no gastar créditos; guion en guiones/05_la_oruga.txt) |
-| 06 | Las estaciones | Tú también tienes inviernos, y no significan que estés muerto. | 2026-11-26 16:00 | fallido (el proxy de la sesión sigue bloqueando elevenlabsusercontent.com y api.elevenlabs.io; no se generó voz para no gastar créditos; guion en guiones/06_las_estaciones.txt; ver log/2026-11-24_tarea_06-07.md) |
-| 07 | El papalote | Se eleva contra el viento, no a favor. | 2026-11-27 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/07_el_papalote.txt) |
-| 08 | La lluvia | Las plantas no se quejan de la tormenta que las hace crecer. | 2026-11-27 16:00 | fallido (el proxy de la sesión sigue bloqueando storage.elevenlabsusercontent.com y api.elevenlabs.io con 403; no se generó voz para no gastar créditos; guion en guiones/08_la_lluvia.txt; ver log/2026-11-24_tarea_08-09.md) |
-| 09 | El bonsái | Lo valioso se forma despacio, corte a corte. | 2026-11-28 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/09_el_bonsai.txt) |
-| 10 | El jardín de tu mente | Lo que riegas todos los días es lo que crece. | 2026-11-28 16:00 | fallido (2026-11-24: el proxy sigue bloqueando storage.elevenlabsusercontent.com y api.elevenlabs.io con 403; no se generó voz para no gastar créditos; guion en guiones/10_el_jardin_de_tu_mente.txt; ver log/2026-11-24_tarea_10-11.md) |
-| 11 | El escultor | No crea la figura, quita todo lo que sobra. | 2026-11-29 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/11_el_escultor.txt) |
-| 12 | El cantero | 100 golpes sin resultado; la roca se parte en el 101. | 2026-11-29 16:00 | fallido (2026-11-24: el proxy de la sesión sigue rechazando storage.elevenlabsusercontent.com y api.elevenlabs.io con 403; no se generó voz para no gastar créditos; guion en guiones/12_el_cantero.txt; ver log/2026-11-24_tarea_12-13.md) |
-| 13 | La forja | El hierro se vuelve fuerte en el fuego, no en la vitrina. | 2026-11-30 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/13_la_forja.txt) |
-| 14 | El arquero | La flecha tiene que ir hacia atrás para salir disparada. | 2026-11-30 16:00 | fallido (2026-11-24: el proxy de la sesión sigue rechazando storage.elevenlabsusercontent.com y api.elevenlabs.io con 403; no se generó voz para no gastar créditos; guion en guiones/14_el_arquero.txt; ver log/2026-11-24_tarea_14-15.md) |
-| 15 | La brújula | No necesitas el mapa completo, solo la dirección. | 2026-12-01 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/15_la_brujula.txt) |
-| 16 | La llave | La puerta que tanto temías nunca tuvo seguro. | 2026-12-01 16:00 | fallido (2026-11-24: el proxy de la sesión sigue rechazando storage.elevenlabsusercontent.com y api.elevenlabs.io con 403; no se generó voz para no gastar créditos; guion en guiones/16_la_llave.txt; ver log/2026-11-24_tarea_16-17.md) |
-| 17 | El cerillo | Una chispa basta para empezar el fuego. | 2026-12-02 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/17_el_cerillo.txt) |
-| 18 | El ancla | Lo que te detiene y lo que te da estabilidad parecen lo mismo. | 2026-12-02 16:00 | fallido (2026-11-24: el proxy de la sesión sigue rechazando storage.elevenlabsusercontent.com y api.elevenlabs.io con 403; no se generó voz para no gastar créditos; guion en guiones/18_el_ancla.txt; ver log/2026-11-24_tarea_18-19.md) |
-| 19 | El volante | Deja de ir de pasajero en tu propia vida. | 2026-12-03 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/19_el_volante.txt) |
-| 20 | La ventana | La misma tormenta se ve distinta según dónde estés. | 2026-12-03 16:00 | fallido (2026-11-24: el proxy de la sesión sigue rechazando storage.elevenlabsusercontent.com, api.elevenlabs.io y static.metricool.com con 403; no se generó voz para no gastar créditos; guion en guiones/20_la_ventana.txt; ver log/2026-11-24_tarea_20-21.md) |
-| 21 | El maratón | Corre tu ritmo, no el de los que van a tu lado. | 2026-12-04 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/21_el_maraton.txt) |
-| 22 | El equilibrista | Si miras hacia abajo, caes; mira hacia adelante. | 2026-12-04 16:00 | fallido (2026-11-24: el proxy de la sesión sigue rechazando storage.elevenlabsusercontent.com, api.elevenlabs.io y static.metricool.com con 403; no se generó voz para no gastar créditos; guion en guiones/22_el_equilibrista.txt; ver log/2026-11-24_tarea_22-23.md) |
-| 23 | El constructor de puentes | Construye para alguien que nunca va a conocer. | 2026-12-05 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/23_el_constructor_de_puentes.txt) |
-| 24 | La carrera de relevos | Lo que recibiste y lo que vas a dejar. | 2026-12-05 16:00 | fallido (2026-11-24: el proxy de la sesión sigue rechazando storage.elevenlabsusercontent.com, api.elevenlabs.io y static.metricool.com con 403; no se generó voz para no gastar créditos; guion en guiones/24_la_carrera_de_relevos.txt; ver log/2026-11-24_tarea_24-25.md) |
-| 25 | La montaña desde abajo | No subes la cima, subes el siguiente paso. | 2026-12-06 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/25_la_montana_desde_abajo.txt) |
-| 26 | Las huellas en la arena | Mira todo el camino que ya recorriste. | 2026-12-06 16:00 | fallido (2026-11-24: el proxy de la sesión sigue rechazando storage.elevenlabsusercontent.com, api.elevenlabs.io y static.metricool.com con 403; no se generó voz para no gastar créditos; guion en guiones/26_las_huellas_en_la_arena.txt; ver log/2026-11-24_tarea_26-27.md) |
-| 27 | La mano extendida | Pedir ayuda no es debilidad. | 2026-12-07 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/27_la_mano_extendida.txt) |
-| 28 | Los que se fueron | Algunas despedidas son espacio para quien sí se queda. | 2026-12-07 16:00 | fallido (2026-11-24: el proxy de la sesión sigue rechazando storage.elevenlabsusercontent.com, api.elevenlabs.io y static.metricool.com con 403; no se generó voz para no gastar créditos; guion en guiones/28_los_que_se_fueron.txt; ver log/2026-11-24_tarea_28-29.md) |
-| 29 | "Mañana empiezo" | La palabra que más sueños ha enterrado. | 2026-12-08 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/29_manana_empiezo.txt) |
-| 30 | 20 segundos de valor | Todo lo que cambia tu vida cabe en un momento de valentía. | 2026-12-08 16:00 | fallido (2026-11-24: el proxy de la sesión sigue rechazando storage.elevenlabsusercontent.com, api.elevenlabs.io y static.metricool.com con 403; no se generó voz para no gastar créditos; guion en guiones/30_20_segundos_de_valor.txt; ver log/2026-11-24_tarea_30-31.md) |
-| 31 | Tu yo de hace un año | No te estaría pidiendo perfección, estaría orgulloso. | 2026-12-09 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/31_tu_yo_de_hace_un_ano.txt) |
-| 32 | Pequeñas victorias | Celebra lo que nadie aplaude. | 2026-12-09 16:00 | fallido (2026-11-24: el proxy de la sesión sigue rechazando storage.elevenlabsusercontent.com, api.elevenlabs.io y static.metricool.com con 403; no se generó voz para no gastar créditos; guion en guiones/32_pequenas_victorias.txt; ver log/2026-11-24_tarea_32-33.md) |
-| 33 | Tu cuerpo es tu casa | El único lugar donde vas a vivir toda la vida. | 2026-12-10 10:00 | fallido (mismo bloqueo; no se generó voz; guion en guiones/33_tu_cuerpo_es_tu_casa.txt) |
+| 02 | Ellos también tuvieron tu edad | Los que admiras estuvieron perdidos justo donde tú estás. (Guion ya escrito en guiones/02_ellos_tambien_tuvieron_tu_edad.txt: úsalo tal cual.) | 2026-11-24 16:00 | en producción (sesión principal) |
+| 03 | Si estás a punto de rendirte (el bambú) | Años sin crecer por fuera, construyendo raíces. | 2026-11-25 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 04 | El río y la piedra | El agua no rompe la piedra por fuerza, sino por constancia. | 2026-11-25 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 05 | La oruga | Nadie le explica que la oscuridad del capullo es para volar. | 2026-11-26 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 06 | Las estaciones | Tú también tienes inviernos, y no significan que estés muerto. | 2026-11-26 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 07 | El papalote | Se eleva contra el viento, no a favor. | 2026-11-27 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 08 | La lluvia | Las plantas no se quejan de la tormenta que las hace crecer. | 2026-11-27 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 09 | El bonsái | Lo valioso se forma despacio, corte a corte. | 2026-11-28 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 10 | El jardín de tu mente | Lo que riegas todos los días es lo que crece. | 2026-11-28 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 11 | El escultor | No crea la figura, quita todo lo que sobra. | 2026-11-29 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 12 | El cantero | 100 golpes sin resultado; la roca se parte en el 101. | 2026-11-29 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 13 | La forja | El hierro se vuelve fuerte en el fuego, no en la vitrina. | 2026-11-30 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 14 | El arquero | La flecha tiene que ir hacia atrás para salir disparada. | 2026-11-30 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 15 | La brújula | No necesitas el mapa completo, solo la dirección. | 2026-12-01 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 16 | La llave | La puerta que tanto temías nunca tuvo seguro. | 2026-12-01 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 17 | El cerillo | Una chispa basta para empezar el fuego. | 2026-12-02 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 18 | El ancla | Lo que te detiene y lo que te da estabilidad parecen lo mismo. | 2026-12-02 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 19 | El volante | Deja de ir de pasajero en tu propia vida. | 2026-12-03 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 20 | La ventana | La misma tormenta se ve distinta según dónde estés. | 2026-12-03 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 21 | El maratón | Corre tu ritmo, no el de los que van a tu lado. | 2026-12-04 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 22 | El equilibrista | Si miras hacia abajo, caes; mira hacia adelante. | 2026-12-04 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 23 | El constructor de puentes | Construye para alguien que nunca va a conocer. | 2026-12-05 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 24 | La carrera de relevos | Lo que recibiste y lo que vas a dejar. | 2026-12-05 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 25 | La montaña desde abajo | No subes la cima, subes el siguiente paso. | 2026-12-06 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 26 | Las huellas en la arena | Mira todo el camino que ya recorriste. | 2026-12-06 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 27 | La mano extendida | Pedir ayuda no es debilidad. | 2026-12-07 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 28 | Los que se fueron | Algunas despedidas son espacio para quien sí se queda. | 2026-12-07 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 29 | "Mañana empiezo" | La palabra que más sueños ha enterrado. | 2026-12-08 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 30 | 20 segundos de valor | Todo lo que cambia tu vida cabe en un momento de valentía. | 2026-12-08 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 31 | Tu yo de hace un año | No te estaría pidiendo perfección, estaría orgulloso. | 2026-12-09 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 32 | Pequeñas victorias | Celebra lo que nadie aplaude. | 2026-12-09 16:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 33 | Tu cuerpo es tu casa | El único lugar donde vas a vivir toda la vida. | 2026-12-10 10:00 | pendiente (relanzada 2026-11-24 11:35) |
