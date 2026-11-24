@@ -26,7 +26,7 @@ Horario: America/Chihuahua. Formato de fila: número | tema | idea | publicació
 | 20 | La ventana | La misma tormenta se ve distinta según dónde estés. | 2026-12-03 16:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 21 | El maratón | Corre tu ritmo, no el de los que van a tu lado. | 2026-12-04 10:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 22 | El equilibrista | Si miras hacia abajo, caes; mira hacia adelante. | 2026-12-04 16:00 | pendiente (relanzada 2026-11-24 11:35) |
-| 23 | El constructor de puentes | Construye para alguien que nunca va a conocer. | 2026-12-05 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 23 | El constructor de puentes | Construye para alguien que nunca va a conocer. | 2026-12-05 10:00 | programado (https://app.metricool.com/planner/calendar?blogId=8320706&openWithPostUuid=4407392194848113499) |
 | 24 | La carrera de relevos | Lo que recibiste y lo que vas a dejar. | 2026-12-05 16:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 25 | La montaña desde abajo | No subes la cima, subes el siguiente paso. | 2026-12-06 10:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 26 | Las huellas en la arena | Mira todo el camino que ya recorriste. | 2026-12-06 16:00 | pendiente (relanzada 2026-11-24 11:35) |
