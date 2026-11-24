@@ -18,7 +18,7 @@ Horario: America/Chihuahua. Formato de fila: número | tema | idea | publicació
 | 12 | El cantero | 100 golpes sin resultado; la roca se parte en el 101. | 2026-11-29 16:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 13 | La forja | El hierro se vuelve fuerte en el fuego, no en la vitrina. | 2026-11-30 10:00 | programado (https://app.metricool.com/planner/calendar?blogId=8320706&openWithPostUuid=-8033395481845218746) |
 | 14 | El arquero | La flecha tiene que ir hacia atrás para salir disparada. | 2026-11-30 16:00 | pendiente (relanzada 2026-11-24 11:35) |
-| 15 | La brújula | No necesitas el mapa completo, solo la dirección. | 2026-12-01 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 15 | La brújula | No necesitas el mapa completo, solo la dirección. | 2026-12-01 10:00 | programado (https://app.metricool.com/planner/calendar?blogId=8320706&openWithPostUuid=754483979583768259) |
 | 16 | La llave | La puerta que tanto temías nunca tuvo seguro. | 2026-12-01 16:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 17 | El cerillo | Una chispa basta para empezar el fuego. | 2026-12-02 10:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 18 | El ancla | Lo que te detiene y lo que te da estabilidad parecen lo mismo. | 2026-12-02 16:00 | pendiente (relanzada 2026-11-24 11:35) |
