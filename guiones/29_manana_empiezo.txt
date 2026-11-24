@@ -1,0 +1,29 @@
+[calm] Hay una palabra que ha enterrado más sueños que cualquier fracaso.
+[serious] Mañana.
+[pause]
+[thoughtful] Mañana empiezo a entrenar. Mañana le escribo. Mañana me pongo a estudiar.
+[softly] Y lo dices con toda la intención del mundo. De verdad lo crees.
+[exhales]
+[calm] Pero mañana tiene un truco.
+[thoughtful] Cuando por fin llega, ya no se llama mañana. Se llama hoy.
+[softly] Y hoy siempre está cansado, ocupado, con alguna razón para esperar un poco más.
+[long pause]
+[serious] Así se van las semanas. Luego los meses.
+[thoughtful] Y un día te das cuenta de que llevas años diciendo la misma frase.
+[calm] Mañana empiezo.
+[pause]
+[thoughtful] Imagina un calendario lleno de promesas tachadas.
+[softly] Cada una fue un mañana que nunca llegó a nacer.
+[pause]
+[calm] La verdad es que no necesitas un lunes, ni un año nuevo, ni sentirte listo.
+[confident] Nadie se siente listo. Los que avanzan simplemente empiezan sin estarlo.
+[exhales]
+[thoughtful] No tiene que ser grande. Cinco minutos. Una página. Un primer paso torpe.
+[softly] Lo pequeño que haces hoy vale más que lo enorme que prometes para mañana.
+[pause]
+[calm] Porque el día perfecto para empezar no está en el calendario.
+[thoughtful] Está pasando ahora mismo, mientras escuchas esto.
+[long pause]
+[serious] Así que no lo dejes para mañana.
+[confident] Mañana es donde los sueños van a esperar para siempre.
+[softly] Hoy es donde empiezan.

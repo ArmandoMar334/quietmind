@@ -1,0 +1,27 @@
+[calm] Hay un lugar del que nunca te vas a poder mudar.
+[softly] Te ha acompañado desde tu primer respiro. Y va a estar contigo hasta el último.
+[pause]
+[thoughtful] Tu cuerpo.
+[exhales]
+[serious] Y aun así, muchas veces lo tratas como si fuera de alguien más.
+[thoughtful] Lo desvelas. Lo llenas de prisa. Lo miras al espejo buscando todo lo que le falta.
+[softly] Le hablas con una dureza que nunca usarías con un amigo.
+[long pause]
+[calm] Pero piensa en todo lo que ha hecho por ti.
+[thoughtful] Te ha cargado en los días más pesados. Ha sanado heridas que ni recuerdas.
+[softly] Ha seguido latiendo en las noches en que tú querías rendirte.
+[pause]
+[calm] Nunca te ha pedido perfección.
+[thoughtful] Solo te pide lo básico. Descanso. Agua. Movimiento. Un poco de paciencia.
+[exhales]
+[serious] Cuando una casa no se cuida, no se cae de un día para otro.
+[thoughtful] Se va apagando poco a poco. Una ventana rota. Una gotera que nadie arregla.
+[softly] Y un día te das cuenta de que ya no te sientes en casa.
+[long pause]
+[confident] Todavía estás a tiempo.
+[calm] No tienes que cambiarlo todo hoy.
+[thoughtful] Duerme una hora más. Sal a caminar. Respira profundo antes de reaccionar.
+[softly] Y la próxima vez que te mires al espejo, en lugar de juzgarlo... dale las gracias.
+[pause]
+[thoughtful] Porque ese cuerpo no es tu enemigo. Es tu hogar.
+[confident] Cuídalo como el único lugar donde vas a vivir toda la vida.

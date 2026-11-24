@@ -1,0 +1,28 @@
+[calm] Hay días en los que sientes que no has avanzado nada.
+[thoughtful] Que sigues en el mismo lugar, con los mismos miedos, con las mismas dudas de siempre.
+[softly] Que todos van más rápido que tú, y que tú apenas te mueves.
+[pause]
+[calm] Cuando te sientas así, quiero que hagas algo muy simple.
+[confident] Detente. Y mira la arena detrás de ti.
+[long pause]
+[thoughtful] Ahí están tus huellas.
+[softly] Cada una es un día que no te rendiste.
+[calm] Una mañana en la que te levantaste aunque no querías. Una noche en la que lloraste y aun así, al día siguiente, volviste a intentarlo.
+[exhales]
+[thoughtful] Algunas huellas son profundas, de cuando el peso era tanto que apenas podías caminar.
+[softly] Otras son torcidas, de cuando no sabías hacia dónde ir.
+[calm] Y hay tramos donde se ven dos marcas en el suelo, donde caíste y tuviste que levantarte con las manos.
+[pause]
+[serious] Pero todas van hacia adelante.
+[long pause]
+[thoughtful] El mar va a borrar muchas de ellas. Nadie las va a ver. Nadie te va a aplaudir por ese camino.
+[calm] No importa.
+[thoughtful] Las huellas no existen para que otros las vean. Existen porque tú pasaste por ahí.
+[confident] Tú sabes lo que costó cada paso. Y eso nadie te lo puede quitar.
+[pause]
+[softly] Así que deja de medir tu vida por lo lejos que está la meta.
+[thoughtful] Mídela por todo lo que ya caminaste para llegar hasta aquí.
+[calm] La persona que dejó la primera huella no se imaginaba que llegaría tan lejos.
+[long pause]
+[softly] No estás atrasado.
+[confident] Mira atrás. Llevas toda una playa recorrida.

@@ -1,0 +1,31 @@
+[calm] Hay momentos que duran menos que un suspiro y cambian toda una vida.
+[thoughtful] Levantar la mano. Decir "no". Marcar ese número. Entrar por esa puerta.
+[pause]
+[softly] Afuera parecen nada. Por dentro se sienten como saltar al vacío.
+[exhales]
+[serious] El corazón se acelera. La voz se esconde. La mente empieza a negociar.
+[thoughtful] "Mejor otro día. Mejor cuando estés listo. Mejor cuando no dé tanto miedo."
+[long pause]
+[calm] Pero escucha esto.
+[confident] No necesitas ser valiente toda la vida. Solo necesitas veinte segundos.
+[pause]
+[thoughtful] Veinte segundos de valor para decir lo que sientes.
+[softly] Veinte segundos para pedir lo que mereces.
+[thoughtful] Veinte segundos para dar el paso que llevas meses imaginando.
+[exhales]
+[calm] El miedo es enorme antes. Durante, apenas cabe en un respiro.
+[softly] Y después, casi siempre, te preguntas por qué esperaste tanto.
+[pause]
+[serious] Piensa en todo lo que no pasó en tu vida por no tener esos veinte segundos.
+[thoughtful] La conversación que no tuviste. La oportunidad que dejaste ir. La persona a la que nunca le dijiste nada.
+[long pause]
+[calm] Y ahora piensa en todo lo que todavía puede pasar.
+[confident] Tu vida no cambia en años. Cambia en instantes que se atreven.
+[pause]
+[softly] Así que la próxima vez que sientas ese nudo en el pecho, no lo veas como una señal para huir.
+[thoughtful] Es la señal de que estás justo en la orilla de algo importante.
+[exhales]
+[calm] Cuenta hasta tres.
+[serious] Respira.
+[confident] Y entrega tus veinte segundos.
+[softly] Del otro lado está la vida que querías.

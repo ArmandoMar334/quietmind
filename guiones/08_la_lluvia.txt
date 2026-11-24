@@ -1,0 +1,26 @@
+[calm] Hay días en que todo se nubla.
+[softly] El cielo se pone gris, el viento cambia, y de pronto empieza a llover sobre tu vida.
+[thoughtful] Un problema. Luego otro. Luego una noticia que no esperabas.
+[pause]
+[serious] Y lo primero que pides es que pare.
+[long pause]
+[calm] Pero mira el campo después de una tormenta.
+[softly] La tierra que estaba seca y dura ahora está blanda. Las raíces beben. Las hojas que parecían muertas se levantan.
+[thoughtful] Ninguna planta se queja de la lluvia.
+[serious] La planta no sabe que la tormenta la está ayudando. Solo resiste, se dobla un poco, y sigue en su lugar.
+[exhales]
+[calm] Tú tampoco lo ves todavía.
+[softly] No ves que esa pérdida te está enseñando a soltar. Que ese rechazo te está obligando a buscar mejor. Que ese cansancio te está diciendo qué ya no puedes cargar.
+[thoughtful] Mientras llueve, todo parece oscuro y frío.
+[serious] Pero debajo de la superficie, algo está cambiando. Algo está creciendo.
+[pause]
+[calm] Nadie florece en una sequía eterna.
+[softly] Si solo tuvieras días de sol, la tierra se te agrietaría por dentro.
+[thoughtful] Así que no corras a esconderte de cada gota.
+[confident] Quédate. Echa raíces más profundas. Deja que la lluvia haga su trabajo.
+[long pause]
+[softly] Porque un día va a dejar de llover.
+[calm] Las nubes se van a abrir, y vas a ver que estás más alto, más verde y más fuerte que antes.
+[pause]
+[confident] La tormenta no vino a ahogarte.
+[softly] Vino a regarte.

@@ -1,0 +1,30 @@
+[calm] Piensa en cuántos años llevas en el asiento del copiloto.
+[softly] Mirando por la ventana. Viendo pasar los lugares.
+[thoughtful] Dejando que alguien más decida a dónde vas, a qué velocidad, y cuándo te bajas.
+[pause]
+[calm] Al principio es cómodo.
+[softly] No tienes que elegir. No tienes que equivocarte.
+[thoughtful] Si el camino sale mal, siempre puedes decir que no ibas manejando.
+[long pause]
+[serious] Pero un día te das cuenta de algo.
+[calm] Llevas años en un viaje que no escogiste.
+[thoughtful] Estudiaste lo que te dijeron. Te quedaste donde era seguro. Dijiste que sí cuando querías decir que no.
+[softly] Y el paisaje que ves por la ventana no se parece en nada al que soñabas.
+[pause]
+[exhales]
+[serious] Nadie te quitó el volante.
+[calm] Tú lo soltaste. Poco a poco. Por miedo, por cansancio, por no decepcionar a nadie.
+[thoughtful] Y lo más duro, y lo más bonito, es que sigue ahí. Esperando tus manos.
+[long pause]
+[confident] Tomarlo no significa saber exactamente a dónde vas.
+[calm] Significa decidir la siguiente vuelta. Y la siguiente.
+[softly] Vas a frenar de golpe a veces. Vas a perderte. Vas a tomar calles equivocadas.
+[confident] Pero vas a ser tú quien las tome.
+[calm] Y cada error al volante te va a enseñar más que mil kilómetros mirando por la ventana.
+[pause]
+[thoughtful] Porque es mejor perderse manejando, que llegar a un lugar ajeno de pasajero.
+[long pause]
+[confident] Así que siéntate del otro lado.
+[softly] Ajusta el espejo. Pon las dos manos firmes. Respira hondo.
+[thoughtful] El camino no va a esperar a que te sientas listo.
+[serious] Es tu vida. Deja de ir de pasajero.

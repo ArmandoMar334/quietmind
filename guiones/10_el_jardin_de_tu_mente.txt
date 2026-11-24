@@ -1,0 +1,27 @@
+[calm] Tu mente es un jardín.
+[softly] Y aunque no lo sepas, todos los días estás sembrando algo.
+[thoughtful] Cada pensamiento que repites es una semilla. Cada cosa a la que le das tu atención, la estás regando.
+[pause]
+[calm] Piensa en lo primero que haces al despertar.
+[softly] ¿Qué miras? ¿Qué escuchas? ¿Qué te dices a ti mismo frente al espejo?
+[serious] Eso que parece pequeño, eso que haces sin darte cuenta, es el agua de tu jardín.
+[long pause]
+[thoughtful] Si todos los días riegas el miedo, va a crecer el miedo.
+[softly] Si riegas la queja, vas a cosechar queja.
+[serious] Si riegas la comparación, un día vas a voltear y tu jardín va a estar lleno de espinas que tú mismo cuidaste.
+[exhales]
+[calm] Nadie más entra a tu jardín a sembrar por ti.
+[softly] Sí, el viento trae semillas que no pediste. Un comentario. Un mal día. Una noticia que te pesa.
+[thoughtful] No puedes evitar que caigan.
+[serious] Pero sí puedes decidir cuáles riegas y cuáles dejas secar.
+[pause]
+[calm] Así que empieza hoy, aunque sea con algo chiquito.
+[softly] Diez minutos de silencio. Una página de un buen libro. Una palabra amable para ti.
+[thoughtful] Al principio no vas a ver nada. La tierra va a parecer igual.
+[confident] Pero debajo, algo ya está echando raíz.
+[long pause]
+[calm] Y un día, sin que te des cuenta, vas a caminar por tu propia mente…
+[softly] y vas a encontrar flores donde antes solo había hierba seca.
+[pause]
+[softly] No crece lo que deseas.
+[confident] Crece lo que riegas todos los días.

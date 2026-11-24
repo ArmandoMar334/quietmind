@@ -1,0 +1,28 @@
+[calm] Mira un barco en medio de la tormenta.
+[softly] Las olas lo empujan. El viento lo jala hacia todos lados.
+[thoughtful] Y lo único que lo mantiene en su lugar es un pedazo de hierro, pesado, oscuro, hundido en el fondo del mar.
+[pause]
+[calm] El ancla.
+[softly] Desde arriba parece un castigo. Algo que no lo deja avanzar.
+[thoughtful] Pero sin ella, la primera ola fuerte lo estrellaría contra las rocas.
+[long pause]
+[serious] En tu vida también hay anclas.
+[calm] Y aquí está lo difícil: lo que te detiene y lo que te da estabilidad se sienten exactamente igual. Las dos pesan. Las dos te sujetan.
+[thoughtful] Un miedo viejo pesa. Pero también pesa una promesa que cumples, una rutina que te sostiene, una persona que te dice la verdad.
+[pause]
+[softly] Por eso tienes que preguntarte, con calma:
+[serious] ¿esto me sujeta para protegerme, o me sujeta para que no me vaya?
+[exhales]
+[calm] Hay anclas que te mantienen firme mientras pasa la tormenta.
+[thoughtful] Y hay otras que siguen clavadas cuando el cielo ya se despejó. Cuando ya es hora de zarpar y tú sigues en el mismo puerto, diciendo que no es el momento.
+[pause]
+[serious] Ningún barco fue construido para quedarse en el puerto.
+[softly] El ancla sirve para esperar, no para vivir esperando.
+[long pause]
+[confident] Así que cuida las anclas que te dan estabilidad.
+[confident] Y las que solo te detienen, súbelas. Una por una.
+[calm] Va a costar. El hierro pesa, y la cadena está fría.
+[softly] Pero cuando por fin la levantes, vas a sentir algo que tenías olvidado.
+[pause]
+[confident] El mar entero, esperándote.
+[serious] Lo que te sostiene no siempre es lo que te detiene. Aprende a distinguirlos.

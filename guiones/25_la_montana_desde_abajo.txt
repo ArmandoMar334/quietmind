@@ -1,0 +1,30 @@
+[calm] Desde abajo, la montaña siempre se ve imposible.
+[thoughtful] La cima está tan lejos que parece que no pertenece al mismo mundo que tus pies.
+[softly] Y la miras, y la miras, y sientes que no vas a poder.
+[pause]
+[calm] Pero te voy a decir algo que saben todos los que han llegado arriba.
+[confident] Nadie sube una montaña.
+[long pause]
+[thoughtful] Subes una piedra. Luego otra. Luego la siguiente.
+[calm] Subes hasta esa curva del sendero. Y desde ahí, solo hasta el próximo árbol.
+[softly] La cima no se conquista. Se acumula.
+[exhales]
+[serious] El problema es que vives mirando hacia arriba.
+[thoughtful] Comparando lo que te falta con lo poco que llevas. Calculando cuántos años, cuánto esfuerzo, cuántas caídas.
+[softly] Y de tanto medir la distancia, se te olvida dar el paso.
+[thoughtful] Te quedas al pie de la montaña, esperando sentirte listo para algo que nadie se siente listo.
+[pause]
+[calm] Cuando el camino se vuelve pesado, no levantes la vista hacia la cima.
+[confident] Baja la mirada. Encuentra el siguiente paso. Solo ese.
+[thoughtful] Ese sí lo puedes dar. Hoy. Ahora. Con el cansancio que traes.
+[long pause]
+[calm] Y de vez en cuando, detente y voltea hacia atrás.
+[softly] Mira lo pequeño que se ve el lugar donde empezaste.
+[thoughtful] Ese punto donde un día pensaste que no podías ni comenzar.
+[pause]
+[serious] La montaña no se hace más chica.
+[confident] Tú te haces más fuerte con cada paso.
+[long pause]
+[calm] No tienes que ver la cima para seguir subiendo.
+[softly] Solo tienes que ver tu siguiente paso.
+[confident] Y darlo.

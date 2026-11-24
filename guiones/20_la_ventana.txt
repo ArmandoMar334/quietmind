@@ -1,0 +1,28 @@
+[calm] Imagina una tormenta.
+[softly] El viento golpea los árboles. La lluvia cae de lado. El cielo se pone negro a media tarde.
+[pause]
+[thoughtful] Ahora imagina dos personas mirando esa misma tormenta.
+[calm] Una está afuera, empapada, sin saber a dónde correr.
+[softly] La otra está detrás de una ventana, con una taza caliente entre las manos, viendo caer el agua.
+[long pause]
+[serious] La tormenta es exactamente la misma.
+[thoughtful] El mismo viento. Los mismos truenos. La misma lluvia.
+[calm] Lo único que cambia es el lugar desde donde cada uno la mira.
+[pause]
+[exhales]
+[softly] Hay días en que la vida se pone así.
+[thoughtful] Una pérdida, una deuda, un diagnóstico, una puerta que se cierra.
+[serious] Y no siempre puedes detener la tormenta.
+[calm] Pero casi siempre puedes elegir desde dónde la miras.
+[long pause]
+[thoughtful] Puedes quedarte afuera, repitiendo por qué a ti, por qué ahora, dejando que cada gota te recuerde lo injusto que es todo.
+[softly] O puedes buscar tu ventana.
+[calm] Una persona que te escuche. Una rutina que te sostenga. Una pregunta distinta: ¿qué puedo aprender de esto?
+[pause]
+[confident] La ventana no hace que la tormenta desaparezca.
+[calm] Hace que deje de estar dentro de ti.
+[thoughtful] Te da distancia. Te da calma. Te deja ver que el agua también limpia, que el cielo no se queda gris para siempre.
+[long pause]
+[softly] Así que la próxima vez que todo se oscurezca, no te preguntes solo cuándo va a parar.
+[confident] Pregúntate dónde estás parado.
+[serious] La tormenta no la eliges. La ventana, sí.

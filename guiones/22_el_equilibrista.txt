@@ -1,0 +1,28 @@
+[calm] Hay un hombre parado en una cuerda, a cuarenta metros del suelo.
+[softly] Abajo no hay red. Solo el viento, y una multitud que contiene la respiración.
+[pause]
+[thoughtful] Le preguntaron una vez cuál era el secreto.
+[calm] No dijo fuerza. No dijo valor. No dijo talento.
+[softly] Dijo: nunca mires hacia abajo.
+[long pause]
+[serious] Porque en el momento en que miras el vacío, el cuerpo le cree al miedo.
+[thoughtful] Las rodillas tiemblan. Los brazos se tensan. Y la cuerda, que estaba quieta, empieza a moverse.
+[calm] No se mueve por el viento. Se mueve por ti.
+[pause]
+[exhales]
+[thoughtful] Tú también caminas sobre una cuerda.
+[softly] Un proyecto que nadie entiende. Una decisión que ya tomaste. Un cambio que todavía da miedo.
+[calm] Y cada vez que miras hacia abajo, a todo lo que podría salir mal, a lo que van a decir si fallas, a la caída que imaginas a las tres de la mañana,
+[serious] te tambaleas.
+[long pause]
+[confident] El equilibrista no camina sin miedo.
+[calm] Camina con los ojos en un punto fijo, al otro lado.
+[thoughtful] No mira la cuerda completa. Mira el siguiente paso, y el lugar a donde va.
+[softly] Respira. Abre los brazos. Avanza.
+[pause]
+[confident] Si te tambaleas, no te detengas a mirar el vacío. Vuelve a buscar tu punto.
+[thoughtful] El equilibrio no es no moverse nunca. Es regresar al centro, una y otra vez.
+[calm] El vacío siempre va a estar ahí.
+[serious] Pero lo que miras decide si cruzas.
+[long pause]
+[confident] No mires hacia abajo. Mira hacia donde vas.

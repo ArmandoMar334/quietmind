@@ -1,0 +1,25 @@
+[calm] ¿Alguna vez volaste un papalote?
+[softly] Entonces sabes algo que casi todos olvidamos de grandes.
+[thoughtful] Un papalote no sube cuando el viento lo empuja por detrás.
+[pause]
+[serious] Sube cuando el viento le pega de frente.
+[calm] Es la resistencia la que lo levanta. Es la fuerza en contra la que lo hace volar, cada vez más alto, mientras más fuerte sopla.
+[long pause]
+[thoughtful] Y nosotros pasamos la vida pidiendo lo contrario.
+[softly] Que todo sea fácil. Que nadie se oponga. Que el camino esté despejado y el viento sople a favor.
+[serious] Pero si eso pasara, el papalote caería al suelo. Y tú también.
+[exhales]
+[calm] Piensa en lo que hoy te pega de frente.
+[softly] La crítica que te dolió. La puerta que se cerró. El plan que no salió. La persona que dudó de ti.
+[serious] No te está frenando. Te está probando.
+[thoughtful] Todo eso que sientes como un muro, puede ser exactamente el aire que necesitas para subir.
+[pause]
+[serious] Ahora, el viento solo no basta.
+[calm] El papalote necesita un hilo. Algo que lo sostenga firme mientras la tormenta sopla.
+[softly] Tu hilo son tus razones. Las personas que amas. La promesa que te hiciste. Eso que no sueltas aunque te tiemble la mano.
+[long pause]
+[thoughtful] Así que la próxima vez que todo parezca ir en tu contra, no te escondas del viento.
+[confident] Dale la cara. Agárrate fuerte de tu hilo.
+[pause]
+[softly] Y deja que la resistencia haga lo suyo.
+[confident] Nadie se eleva con el viento a favor.
