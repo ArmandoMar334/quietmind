@@ -10,7 +10,7 @@ Horario: America/Chihuahua. Formato de fila: número | tema | idea | publicació
 | 04 | El río y la piedra | El agua no rompe la piedra por fuerza, sino por constancia. | 2026-11-25 16:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 05 | La oruga | Nadie le explica que la oscuridad del capullo es para volar. | 2026-11-26 10:00 | programado (https://app.metricool.com/planner/calendar?blogId=8320706&openWithPostUuid=-8550165035045662868) |
 | 06 | Las estaciones | Tú también tienes inviernos, y no significan que estés muerto. | 2026-11-26 16:00 | pendiente (relanzada 2026-11-24 11:35) |
-| 07 | El papalote | Se eleva contra el viento, no a favor. | 2026-11-27 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 07 | El papalote | Se eleva contra el viento, no a favor. | 2026-11-27 10:00 | programado (https://app.metricool.com/planner/calendar?blogId=8320706&openWithPostUuid=1099682335617008078) |
 | 08 | La lluvia | Las plantas no se quejan de la tormenta que las hace crecer. | 2026-11-27 16:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 09 | El bonsái | Lo valioso se forma despacio, corte a corte. | 2026-11-28 10:00 | programado (https://app.metricool.com/planner/calendar?blogId=8320706&openWithPostUuid=-6308966657204468545) |
 | 10 | El jardín de tu mente | Lo que riegas todos los días es lo que crece. | 2026-11-28 16:00 | pendiente (relanzada 2026-11-24 11:35) |
