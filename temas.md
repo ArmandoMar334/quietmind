@@ -28,7 +28,7 @@ Horario: America/Chihuahua. Formato de fila: número | tema | idea | publicació
 | 22 | El equilibrista | Si miras hacia abajo, caes; mira hacia adelante. | 2026-12-04 16:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 23 | El constructor de puentes | Construye para alguien que nunca va a conocer. | 2026-12-05 10:00 | programado (https://app.metricool.com/planner/calendar?blogId=8320706&openWithPostUuid=4407392194848113499) |
 | 24 | La carrera de relevos | Lo que recibiste y lo que vas a dejar. | 2026-12-05 16:00 | pendiente (relanzada 2026-11-24 11:35) |
-| 25 | La montaña desde abajo | No subes la cima, subes el siguiente paso. | 2026-12-06 10:00 | pendiente (relanzada 2026-11-24 11:35) |
+| 25 | La montaña desde abajo | No subes la cima, subes el siguiente paso. | 2026-12-06 10:00 | programado (https://app.metricool.com/planner/calendar?blogId=8320706&openWithPostUuid=179162094429816854) |
 | 26 | Las huellas en la arena | Mira todo el camino que ya recorriste. | 2026-12-06 16:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 27 | La mano extendida | Pedir ayuda no es debilidad. | 2026-12-07 10:00 | pendiente (relanzada 2026-11-24 11:35) |
 | 28 | Los que se fueron | Algunas despedidas son espacio para quien sí se queda. | 2026-12-07 16:00 | pendiente (relanzada 2026-11-24 11:35) |
