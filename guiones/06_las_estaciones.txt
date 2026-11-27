@@ -1,0 +1,27 @@
+[calm] Mira un árbol en pleno invierno.
+[softly] Sin hojas. Sin flores. Sin un solo fruto.
+[thoughtful] Si no supieras nada de árboles, dirías que está muerto.
+[pause]
+[serious] Pero no lo está.
+[calm] Está guardando fuerza. Bajo la tierra, donde nadie mira, sus raíces siguen trabajando.
+[softly] No se apura. No se compara con el pino de al lado, que sigue verde.
+[thoughtful] Simplemente sabe que esta es su estación, y que también va a pasar, como pasaron todas las anteriores.
+[long pause]
+[calm] Tú también tienes inviernos.
+[softly] Temporadas en las que nada florece. En las que te levantas, haces lo que puedes, y parece que no avanzas.
+[serious] Y entonces te dices lo peor: que ya se te pasó, que algo en ti se rompió, que nunca vas a volver a ser el de antes.
+[exhales]
+[thoughtful] Pero un invierno no es un final.
+[calm] Es una pausa que prepara.
+[softly] El árbol suelta sus hojas para no gastar lo que no tiene. Y tú también puedes soltar. Descansar sin culpa. Hacer menos, sin sentir que eres menos.
+[pause]
+[serious] Ninguna estación dura para siempre.
+[calm] Ni la tristeza, ni el cansancio, ni este frío que hoy sientes en el pecho.
+[thoughtful] Un día, sin aviso, vas a notar algo pequeño. Una mañana más ligera. Una idea que vuelve. Unas ganas que creías perdidas.
+[softly] Ese será tu primer brote. Pequeño, frágil, pero tuyo.
+[long pause]
+[confident] Así que no te juzgues por tu invierno.
+[calm] Las raíces más profundas se forman cuando nada se ve.
+[pause]
+[softly] No estás muerto.
+[confident] Estás esperando tu primavera.

@@ -1,0 +1,30 @@
+[calm] Hoy te levantaste. Aunque el cuerpo pesaba y la cabeza te pedía cinco minutos más.
+[softly] Nadie lo vio. Nadie te dijo nada.
+[pause]
+[thoughtful] Tomaste agua. Contestaste ese mensaje que llevabas días evitando.
+[calm] Saliste a caminar diez minutos, aunque querías quedarte en la cama.
+[exhales]
+[serious] Y aun así, al final del día, sientes que no hiciste nada.
+[thoughtful] Porque esperas la gran noticia. El logro que todos aplaudan. El momento que cambie tu vida de golpe.
+[long pause]
+[calm] Pero la vida casi nunca cambia de golpe.
+[softly] Cambia en silencio. Una pequeña victoria a la vez.
+[pause]
+[thoughtful] El día que dijiste que no, y no te sentiste culpable.
+[softly] La noche que no le escribiste a quien te hacía daño.
+[calm] La mañana que elegiste intentarlo otra vez.
+[exhales]
+[thoughtful] Eso no sale en ninguna foto. No tiene trofeo. No tiene público.
+[confident] Pero es ahí donde se construye la persona que vas a ser.
+[pause]
+[serious] Si solo celebras las cimas, vas a pasar casi toda tu vida sintiendo que no es suficiente.
+[thoughtful] Porque la mayor parte del camino es subida. Paso a paso. Sin aplausos.
+[long pause]
+[calm] Así que hoy, antes de dormir, haz algo distinto.
+[softly] Nombra una cosa que hiciste bien. Solo una. Por pequeña que parezca.
+[thoughtful] Y reconócela. Sin compararla con nadie.
+[exhales]
+[confident] Las grandes victorias que tanto esperas están hechas de estas.
+[calm] De cientos de días pequeños que nadie vio, pero que tú sí viviste.
+[pause]
+[softly] Celebra lo que nadie aplaude. Ahí empieza todo.

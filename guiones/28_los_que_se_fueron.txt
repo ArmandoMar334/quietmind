@@ -1,0 +1,29 @@
+[calm] Hay personas que estuvieron en tu vida y un día ya no.
+[thoughtful] Amigos con los que hablabas todos los días. Alguien a quien juraste que nunca ibas a perder.
+[softly] Y de repente, silencio.
+[pause]
+[calm] Al principio duele como una puerta que se cierra de golpe.
+[thoughtful] Revisas qué hiciste mal. Repasas conversaciones. Te preguntas si debiste rogar un poco más.
+[exhales]
+[serious] Pero escucha esto.
+[calm] No todas las despedidas son pérdidas.
+[pause]
+[thoughtful] Piensa en un árbol en otoño. Suelta sus hojas, una por una.
+[softly] No porque esté muriendo, sino porque necesita espacio para lo que viene.
+[thoughtful] Si se aferrara a cada hoja seca, nunca volvería a florecer.
+[long pause]
+[calm] Hay gente que llegó para una etapa, no para toda la vida.
+[thoughtful] Te enseñaron algo. Te acompañaron un tramo del camino. Y está bien que se hayan ido.
+[softly] Agradéceles lo que dejaron, y suelta lo que ya no está.
+[pause]
+[serious] Porque mientras sigas guardando el lugar de quien se fue,
+[calm] no hay espacio para quien sí quiere quedarse.
+[exhales]
+[thoughtful] Las personas correctas no llegan a una casa llena.
+[softly] Llegan cuando dejas una silla libre en la mesa.
+[pause]
+[calm] Así que deja de mirar la puerta por donde salieron.
+[confident] Mira la que se está abriendo.
+[long pause]
+[softly] No te quedaste solo.
+[confident] Te quedaste con espacio.

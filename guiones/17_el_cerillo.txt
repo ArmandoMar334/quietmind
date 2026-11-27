@@ -1,0 +1,26 @@
+[calm] Imagina una noche fría, en medio del bosque.
+[softly] Tienes leña, tienes piedras, tienes hambre de calor.
+[thoughtful] Pero no tienes fuego. Solo una caja con un cerillo.
+[pause]
+[calm] Un solo cerillo parece nada.
+[softly] Es pequeño. Es frágil. El viento lo puede apagar en un segundo.
+[thoughtful] Si lo miras demasiado tiempo, te convences de que no va a alcanzar. Que mejor esperas a tener algo más grande.
+[serious] Y aun así, todas las fogatas del mundo empezaron así. Con una chispa que alguien se atrevió a encender.
+[exhales]
+[thoughtful] Nadie espera a tener un incendio para empezar.
+[calm] Primero es una llama que tiembla. Luego una ramita que agarra. Luego otra. Y otra.
+[softly] Y de pronto, la noche ya no está tan oscura.
+[long pause]
+[thoughtful] Tú estás esperando sentirte en llamas para empezar.
+[calm] Esperas la motivación enorme, el plan completo, la seguridad de que va a funcionar.
+[serious] Pero el fuego no llega primero. Llega después.
+[thoughtful] La motivación no es lo que te hace empezar. Es lo que aparece cuando ya empezaste.
+[pause]
+[softly] Llega cuando escribes la primera página. Cuando sales a caminar una vez. Cuando mandas ese primer mensaje.
+[calm] Una cosa pequeña, hoy. Aunque nadie la vea. Aunque parezca que no cambia nada. Eso es tu cerillo.
+[thoughtful] Va a haber viento. Puede que la primera chispa se apague. Entonces cubres la llama con las manos, y lo intentas otra vez. Y otra. Hasta que la llama ya no dependa del viento.
+[exhales]
+[softly] No necesitas un incendio. Necesitas un comienzo.
+[long pause]
+[confident] Una chispa basta.
+[softly] El resto del fuego lo vas a encender tú.

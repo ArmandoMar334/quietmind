@@ -1,0 +1,24 @@
+[calm] Hace siglos, los marineros cruzaban océanos enteros sin saber qué había del otro lado.
+[softly] No tenían el mapa completo. Nadie lo tenía.
+[thoughtful] Tenían otra cosa. Una aguja pequeña, temblando dentro de una caja de madera.
+[pause]
+[calm] La brújula no les decía cuántas tormentas iban a enfrentar.
+[softly] No les decía dónde estaban las rocas ni cuántos días faltaban.
+[serious] Solo les decía una cosa: hacia dónde estaba el norte.
+[exhales]
+[calm] Y con eso bastaba.
+[thoughtful] Porque cuando sabes hacia dónde vas, no necesitas ver todo el camino. Solo el siguiente tramo.
+[long pause]
+[softly] Tú también estás esperando el mapa completo.
+[calm] Quieres saber cómo va a terminar antes de empezar. Quieres la garantía, el plan perfecto, la certeza de que no te vas a equivocar.
+[thoughtful] Y mientras esperas, el barco se queda en el puerto.
+[pause]
+[serious] El mapa completo nunca llega. A nadie.
+[softly] Los que llegaron lejos no sabían más que tú. Solo sabían hacia dónde querían ir, y se atrevieron a soltar las amarras.
+[thoughtful] Habrá niebla. Habrá noches sin estrellas. Habrá días en que la aguja tiemble y dudes de todo.
+[pause]
+[calm] Pero la aguja siempre vuelve a su lugar.
+[softly] Y tú también puedes volver. Cada mañana. A eso que te importa. A esa persona que quieres llegar a ser.
+[long pause]
+[confident] No necesitas ver todo el camino.
+[softly] Solo necesitas saber hacia dónde mirar.

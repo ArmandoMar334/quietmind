@@ -1,0 +1,27 @@
+[calm] En una carrera de relevos, nadie corre la pista completa.
+[thoughtful] Tú no empezaste en la línea de salida. Y no vas a cruzar la meta.
+[softly] Te tocó un tramo. Solo uno.
+[pause]
+[calm] Antes de ti corrió alguien más. Tu madre, tu abuelo, gente cuyo nombre ni siquiera conoces.
+[thoughtful] Corrieron con lo que tenían. Algunos con miedo. Otros heridos. Casi todos cansados.
+[softly] Y en algún momento estiraron la mano y te pasaron la estafeta.
+[long pause]
+[serious] Pero no todo lo que te pasaron era bueno.
+[thoughtful] Junto con la estafeta venían cosas pesadas. Gritos que se volvieron costumbre. Silencios que nadie rompió. Miedos que se heredaron sin que nadie los eligiera.
+[exhales]
+[calm] Y aquí está lo que casi nadie te dice.
+[confident] Tú decides qué sigue corriendo contigo y qué se queda en tu tramo.
+[pause]
+[thoughtful] No puedes cambiar cómo te entregaron la estafeta.
+[confident] Pero sí puedes cambiar cómo la vas a entregar.
+[long pause]
+[calm] Cada vez que respiras en lugar de gritar, estás soltando algo que venía de muy atrás.
+[softly] Cada vez que pides perdón cuando nadie te lo enseñó, estás corriendo distinto.
+[thoughtful] Cada hábito que rompes es un peso que alguien que viene detrás ya no tendrá que cargar.
+[pause]
+[serious] Tal vez nunca veas la meta.
+[calm] Tal vez nadie aplauda tu tramo.
+[thoughtful] Pero alguien va a recibir de tu mano lo que tú decidiste dejar.
+[long pause]
+[softly] Así que corre tu parte con todo lo que tienes.
+[confident] Y entrega algo mejor de lo que recibiste.

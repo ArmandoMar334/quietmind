@@ -1,0 +1,21 @@
+[calm] En medio del mar, hay una torre que nunca se mueve.
+[softly] No persigue barcos. No grita. No le ruega a nadie que la mire.
+[thoughtful] Solo hace una cosa: se mantiene encendida.
+[serious] Aunque la tormenta golpee sus paredes. Aunque la noche dure más de lo normal. Aunque nadie le dé las gracias.
+[exhales]
+[calm] Tal vez llevas mucho tiempo esperando que alguien ilumine tu camino.
+[softly] Que alguien te diga a dónde ir… y que todo va a estar bien.
+[thoughtful] Pero hay noches en que esa luz no llega.
+[confident] Y ahí descubres que la luz que buscabas afuera… siempre estuvo adentro.
+[calm] No tienes que salvar a todos. No tienes que tener todas las respuestas.
+[softly] Solo no te apagues.
+[long pause]
+[thoughtful] Porque alguien, en algún lugar, está perdido en su propia tormenta.
+[calm] Y tal vez lo único que necesita… es ver que tú sigues de pie.
+[serious] Que sigues intentando. Que sigues brillando, aunque sea poquito.
+[exhales]
+[softly] Y cuando por fin amanezca, y el mar se calme, vas a mirar atrás…
+[calm] y vas a entender que la tormenta nunca fue para apagarte.
+[confident] Era para mostrarte que podías brillar en la oscuridad.
+[long pause]
+[softly] No te apagues. Alguien se está guiando con tu luz.

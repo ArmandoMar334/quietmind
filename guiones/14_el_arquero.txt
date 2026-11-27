@@ -1,0 +1,25 @@
+[calm] Hay algo que todo arquero sabe y casi nadie entiende.
+[softly] Para que la flecha vuele hacia adelante, primero tiene que ir hacia atrás.
+[thoughtful] El arquero toma la cuerda y la jala. Despacio. Contra su propio pecho.
+[pause]
+[calm] Si la flecha pudiera pensar, creería que está perdiendo.
+[softly] Que todo lo que avanzó se le está quitando. Que la vida la está regresando al principio.
+[serious] Y entre más fuerte la jalan, más lejos parece la meta.
+[exhales]
+[calm] Pero la tensión no es castigo. Es fuerza guardada.
+[thoughtful] Cada centímetro que la cuerda retrocede es un metro que la flecha va a volar.
+[long pause]
+[softly] Tal vez así se siente tu vida ahora.
+[calm] Un trabajo que se cayó. Un plan que tuviste que empezar de nuevo. Un año que parece que te regresó al punto de partida.
+[thoughtful] Y miras a los demás avanzar mientras tú solo sientes que te jalan hacia atrás.
+[pause]
+[serious] No estás retrocediendo. Te están apuntando.
+[softly] Ese tiempo en tensión no es tiempo perdido. Es el momento en que el arquero respira, cierra un ojo y busca el blanco.
+[thoughtful] Nadie dispara sin antes detenerse. Nadie da en el centro sin antes aguantar la cuerda.
+[pause]
+[calm] Así que no sueltes por desesperación.
+[softly] Aguanta la tensión. Mira hacia donde quieres llegar. Y deja que la presión haga su trabajo.
+[confident] Porque cuando por fin te suelten, nadie va a poder alcanzarte.
+[long pause]
+[softly] Lo que hoy te jala hacia atrás...
+[confident] es lo que mañana te va a lanzar.

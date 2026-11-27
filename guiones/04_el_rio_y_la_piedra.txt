@@ -1,0 +1,25 @@
+[calm] En medio del río, hay una piedra enorme.
+[softly] Dura. Pesada. Lleva ahí cientos de años.
+[thoughtful] Y el agua que la toca es suave. Tan suave que la puedes atravesar con la mano.
+[serious] Si los pusieras a pelear, cualquiera apostaría por la piedra.
+[exhales]
+[calm] Pero vuelve en mil años… y la piedra tiene un hueco.
+[softly] Un camino perfecto, tallado justo por donde pasa el agua.
+[thoughtful] ¿Cómo lo hizo? No fue con fuerza. El agua nunca golpeó más fuerte.
+[confident] Lo hizo porque nunca dejó de pasar.
+[pause]
+[calm] Gota tras gota. Día tras día. Sin prisa, y sin detenerse. Aunque nadie lo viera avanzar.
+[long pause]
+[thoughtful] Tal vez tienes una piedra enfrente de ti.
+[softly] Un hábito que no logras cambiar. Un sueño que se ve imposible. Una versión de ti que todavía no alcanzas.
+[serious] Y te desesperas, porque empujas un día con todo… y la piedra ni se mueve.
+[calm] Entonces piensas que no eres suficiente. Que te falta fuerza.
+[exhales]
+[softly] Pero no te falta fuerza.
+[thoughtful] Te falta volver mañana. Y pasado. Y el día después.
+[calm] Diez minutos hoy valen más que diez horas una sola vez.
+[serious] Porque la piedra no se rinde ante el golpe más fuerte. Se rinde ante el que no se va.
+[confident] Y un día vas a mirar atrás, y vas a ver el camino que abriste sin darte cuenta.
+[long pause]
+[softly] No tienes que ser más fuerte que la piedra.
+[confident] Solo tienes que ser más constante.

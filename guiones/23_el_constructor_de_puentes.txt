@@ -1,0 +1,27 @@
+[calm] Un viejo caminaba de regreso a casa cuando llegó a un barranco profundo.
+[softly] Lo cruzó con cuidado, despacio, como pudo.
+[thoughtful] Pero al llegar al otro lado, en lugar de seguir su camino, se detuvo.
+[calm] Y empezó a construir un puente.
+[pause]
+[thoughtful] Otro viajero lo vio y le dijo:
+[softly] Ya cruzaste. Nunca vas a volver a pasar por aquí. ¿Para qué gastas tus últimas fuerzas en algo que no vas a usar?
+[long pause]
+[calm] El viejo levantó la vista y le respondió:
+[softly] Detrás de mí viene un muchacho. Tiene que cruzar este mismo barranco.
+[thoughtful] Para mí fue difícil. Para él no tiene por qué serlo.
+[serious] Este puente no es para mí. Es para él.
+[long pause]
+[exhales]
+[thoughtful] Nos enseñaron a medir todo por lo que nos regresa.
+[calm] Si lo voy a ver. Si me lo van a agradecer. Si vale la pena para mí.
+[softly] Pero las cosas que más importan casi nunca las ve terminar quien las empieza.
+[pause]
+[thoughtful] Alguien plantó el árbol bajo el que hoy descansas.
+[calm] Alguien se quedó sin dormir para que tú pudieras estudiar.
+[softly] Alguien rompió una cadena para que tú ya no tuvieras que cargarla.
+[serious] Tú estás caminando sobre puentes que otros construyeron.
+[long pause]
+[confident] Lo que haces hoy también es un puente.
+[calm] La paciencia que tienes con un niño. El hábito que rompes. La palabra que le das a alguien que ya no podía más.
+[thoughtful] Tal vez nunca conozcas a quien lo cruce.
+[confident] Constrúyelo de todos modos.

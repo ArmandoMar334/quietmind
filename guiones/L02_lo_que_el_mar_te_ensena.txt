@@ -1,0 +1,72 @@
+=== CAP 0: INTRO ===
+[calm] Hay días en los que tu vida se siente como el mar en plena tormenta.
+[softly] Olas que no paran. Viento en contra. Ninguna orilla a la vista.
+[pause] Y tú, en medio de todo, tratando de no hundirte.
+[thoughtful] Tal vez llevas tiempo así. Remando sin saber si avanzas.
+[serious] Y empiezas a creer que el problema eres tú.
+[pause] Pero los que viven del mar saben algo que en la orilla nadie te cuenta.
+[softly] El mar no está en tu contra.
+[confident] El mar enseña. Y tiene cinco lecciones para ti.
+
+=== CAP 1: LA MAREA ===
+[calm] La primera lección: la marea.
+[thoughtful] Hay horas en las que el mar se retira. El agua se va lejos, y la playa se queda vacía, con barcas tiradas en la arena.
+[softly] Si llegas en ese momento, pensarías que el mar se secó para siempre.
+[serious] Pero nadie que conoce el mar se asusta de la marea baja.
+[pause] Porque sabe que el agua siempre regresa.
+[calm] En tu vida también hay mareas. Temporadas en las que todo se aleja: las ganas, el dinero, la gente, la suerte.
+[thoughtful] No es el final. Es solo la mitad del ciclo.
+[softly] No juzgues tu vida por la hora en la que el mar se fue.
+[confident] Lo que hoy se retira, mañana vuelve a subir.
+
+=== CAP 2: LA OLA ===
+[calm] La segunda lección: la ola.
+[thoughtful] Cuando viene una ola gigante, el que no conoce el mar hace lo más natural: se da la vuelta y corre. Y la ola lo revuelca.
+[serious] Pero el que conoce el mar hace lo contrario.
+[pause] Respira hondo… y se sumerge. Pasa por debajo de la ola, justo donde no tiene fuerza.
+[calm] Y unos segundos después sale del otro lado, entero.
+[thoughtful] Hay problemas de los que no vas a poder huir. Entre más corres, más fuerte te golpean.
+[softly] A veces la única salida es entrar. Mirarlo de frente. Atravesarlo.
+[confident] La ola que enfrentas te deja pasar. La ola a la que le das la espalda, te arrastra.
+
+=== CAP 3: LO PROFUNDO ===
+[calm] La tercera lección: lo profundo.
+[thoughtful] Arriba, en la superficie, la tormenta lo sacude todo. Olas, espuma, ruido.
+[softly] Pero si bajas unos metros… el agua está quieta. En silencio. Como si arriba no pasara nada.
+[serious] Tú también tienes un lugar así.
+[pause] Debajo de los problemas, del miedo, de todo lo que te dicen… hay una parte de ti que sigue en calma.
+[calm] Cuando la tormenta esté arriba, no te quedes peleando en la superficie.
+[thoughtful] Baja. Respira despacio. Vuelve a lo que sabes que es cierto.
+[softly] La tormenta puede mover tu superficie. Pero no tiene por qué llegar a tu fondo.
+
+=== CAP 4: LA CORRIENTE ===
+[calm] La cuarta lección: la corriente.
+[thoughtful] Hay corrientes que te jalan mar adentro sin que te des cuenta. Y el instinto te grita: nada hacia la orilla, con todas tus fuerzas.
+[serious] Y así es como la gente se agota… y se hunde.
+[pause] El que conoce el mar no pelea de frente contra la corriente. Nada de lado, paralelo a la playa, hasta salir de ella.
+[calm] Y luego, ya libre, regresa a la orilla.
+[thoughtful] Hay situaciones que no se vencen a la fuerza. Insistir igual solo te cansa más.
+[softly] A veces no necesitas empujar más fuerte. Necesitas cambiar de dirección.
+[confident] Eso no es rendirse. Es ser más listo que la corriente.
+
+=== CAP 5: EL PUERTO ===
+[calm] La quinta lección: el puerto.
+[thoughtful] En el puerto, la barca está segura. No hay olas, no hay viento, no hay riesgo.
+[softly] Y podría quedarse ahí toda la vida… amarrada, intacta.
+[serious] Pero una barca no fue hecha para quedarse en el puerto.
+[pause] Y tú tampoco.
+[calm] Hay personas que pasan la vida amarradas a lo conocido. Al trabajo que ya no quieren. A la ciudad que les queda chica. A una versión de sí mismas que ya no les cabe.
+[thoughtful] El mar nunca va a estar completamente en calma. Ese día no existe.
+[softly] Así que suelta la cuerda. Sal, aunque tiemble.
+[confident] En el puerto estás a salvo. Pero en el mar estás vivo.
+
+=== CAP 6: CIERRE ===
+[calm] Y un día, después de tantas tormentas, el mar se calma.
+[softly] El cielo se abre. Y a lo lejos aparece la luz de la mañana.
+[thoughtful] Y te das cuenta de que el mar nunca estuvo tratando de hundirte.
+[calm] Te estaba enseñando. Que lo que se va, regresa. Que hay olas que se cruzan de frente. Que en lo profundo hay calma. Que a veces hay que cambiar de dirección. Y que no naciste para quedarte en el puerto.
+[pause] Ya no eres el mismo que subió a la barca.
+[serious] Ahora sabes leer el agua.
+[long pause] Así que si hoy el mar está bravo… no le tengas miedo.
+[softly] No te está hundiendo.
+[confident] Te está enseñando a navegar.

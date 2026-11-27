@@ -1,0 +1,25 @@
+[calm] Antes de ser espada, era un pedazo de hierro.
+[softly] Opaco. Frágil. Cualquier golpe lo habría torcido.
+[thoughtful] Pudo haberse quedado así para siempre, guardado en una repisa, limpio y a salvo.
+[pause]
+[calm] Pero alguien lo metió al fuego.
+[softly] Y el fuego no pregunta si estás listo.
+[serious] El hierro se pone rojo, luego naranja, luego casi blanco. Parece que va a deshacerse.
+[thoughtful] Y cuando lo sacan, no lo dejan descansar. Lo ponen en el yunque y lo golpean.
+[exhales]
+[calm] Una y otra vez. Fuego, golpe, agua fría. Y otra vez fuego.
+[softly] Si el hierro pudiera hablar, diría que lo están destruyendo.
+[confident] Pero no lo están destruyendo. Lo están formando.
+[long pause]
+[calm] Tal vez tú estás en ese fuego ahora mismo.
+[softly] Una pérdida. Un fracaso. Una temporada en la que todo pesa más de lo normal.
+[thoughtful] Y te preguntas por qué a ti, por qué ahora, por qué tanto.
+[serious] Nadie se vuelve fuerte en la vitrina.
+[thoughtful] Ahí todo brilla, pero nada se pone a prueba. Nada aprende a resistir.
+[pause]
+[calm] La fuerza que vas a necesitar mañana se está forjando en lo que te quema hoy.
+[softly] Cada golpe te está quitando impurezas. Cada caída en el agua fría te está templando.
+[serious] No significa que duela menos. Significa que no está siendo en vano.
+[long pause]
+[softly] Así que aguanta un poco más en el fuego.
+[confident] El hierro no se vuelve acero esperando. Se vuelve acero resistiendo.

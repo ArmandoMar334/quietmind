@@ -1,0 +1,27 @@
+[calm] En la línea de salida de un maratón, todos se ven iguales.
+[softly] Los mismos nervios. El mismo número en el pecho. La misma meta, a cuarenta y dos kilómetros.
+[pause]
+[thoughtful] Suena el disparo, y algo pasa.
+[calm] Algunos salen corriendo como si la meta estuviera a la vuelta.
+[softly] Te rebasan. Uno. Diez. Cien.
+[thoughtful] Y tú sientes ese impulso de apretar el paso, de alcanzarlos, de no quedarte atrás.
+[long pause]
+[serious] Pero los que saben correr un maratón conocen un secreto.
+[calm] La carrera no se gana en el primer kilómetro.
+[thoughtful] Se pierde ahí.
+[softly] Los que corren al ritmo de otro se quedan sin aire en el kilómetro quince. Caminan en el veinte. Se rinden en el treinta.
+[pause]
+[exhales]
+[calm] La vida es igual.
+[thoughtful] Alguien de tu edad ya tiene casa. Alguien ya se casó. Alguien ya ganó lo que tú todavía sueñas.
+[softly] Y empiezas a correr con sus piernas, con sus pulmones, con su calendario.
+[serious] Hasta que te quiebras.
+[long pause]
+[confident] Tu carrera no es la suya.
+[calm] Tu salida fue otra. Tus piernas son otras. Tu camino tiene subidas que ellos nunca van a ver.
+[thoughtful] Mirar al de al lado solo te roba la atención que necesitas para tu propio paso.
+[pause]
+[confident] Encuentra tu ritmo. Ese que puedes sostener hoy, mañana y dentro de diez años.
+[softly] Respira. Un pie. Luego el otro.
+[thoughtful] Muchos de los que te rebasaron al principio te los vas a encontrar después, sentados a la orilla del camino.
+[serious] Corre tu ritmo. La meta no se va a mover.

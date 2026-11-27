@@ -1,0 +1,28 @@
+[calm] Hay un hombre frente a una roca enorme. Tiene un mazo en las manos.
+[softly] Levanta el mazo y golpea. Nada.
+[thoughtful] Golpea otra vez. Nada. Ni una grieta, ni una astilla.
+[pause]
+[calm] Diez golpes. Treinta. Cincuenta.
+[softly] El sol le quema la espalda, le arden las manos, y la roca sigue igual que al principio.
+[serious] Cualquiera que pasara por ahí diría que está perdiendo el tiempo.
+[long pause]
+[calm] Golpe noventa. Golpe noventa y nueve. Golpe cien.
+[softly] Nada.
+[thoughtful] Y entonces, en el golpe ciento uno, la roca se parte en dos.
+[exhales]
+[calm] Ahora dime una cosa.
+[thoughtful] ¿Qué golpe partió la roca?
+[serious] La gente diría que fue el último. Pero el último solo terminó lo que los otros cien empezaron.
+[softly] Cada golpe que parecía inútil estaba abriendo algo por dentro, donde nadie podía verlo.
+[pause]
+[calm] Tal vez tú estás en el golpe cuarenta.
+[softly] Llevas meses estudiando, entrenando, intentando, y no ves ningún cambio.
+[thoughtful] Te miras al espejo y pareces el mismo. Las cuentas siguen igual. Nadie te aplaude.
+[serious] Y empiezas a pensar que nada de esto sirve.
+[long pause]
+[confident] Sí sirve.
+[calm] Los resultados casi nunca llegan cuando los esperas. Llegan cuando ya acumulaste suficiente.
+[softly] Y el que se rinde en el golpe noventa y nueve nunca sabrá lo cerca que estuvo.
+[pause]
+[softly] No dejes el mazo todavía.
+[confident] La roca no se rompe con un golpe. Se rompe con todos.

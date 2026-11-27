@@ -1,0 +1,70 @@
+=== CAP 0: INTRO ===
+[calm] Hay lugares donde el camino no existe.
+[softly] No hay señales. No hay letreros. No hay nadie que te diga si vas bien.
+[pause] Solo arena… y un horizonte que nunca se acerca.
+[thoughtful] Y tal vez así se siente tu vida ahora mismo.
+[calm] Te levantas, lo intentas, haces lo que puedes… y cuando miras alrededor, todo se ve igual que ayer.
+[serious] Como si estuvieras dando vueltas en el mismo lugar.
+[pause] Pero los que han cruzado el desierto saben algo que casi nadie te dice.
+[softly] El desierto no es un castigo.
+[confident] Es una escuela. Y tiene cinco lecciones para ti.
+
+=== CAP 1: EL ESPEJISMO ===
+[calm] La primera lección: el espejismo.
+[thoughtful] A veces, a lo lejos, el desierto te muestra agua. Un lago brillante, perfecto, justo ahí.
+[softly] Y corres hacia él con todas tus fuerzas… pero cuando llegas, solo hay más arena.
+[serious] La vida está llena de espejismos.
+[pause] La vida perfecta de alguien en una pantalla. El éxito que parece llegar de la noche a la mañana. La meta que persigues solo porque todos la persiguen.
+[thoughtful] No todo lo que brilla a lo lejos es agua.
+[calm] Antes de gastar tus fuerzas, pregúntate: ¿esto lo quiero yo… o solo me enseñaron a quererlo?
+[softly] Porque no hay cansancio más grande que llegar a una meta que nunca fue tuya.
+
+=== CAP 2: EL SOL DEL MEDIODÍA ===
+[calm] La segunda lección: el sol del mediodía.
+[thoughtful] El viajero sin experiencia camina a la hora más caliente. Quiere llegar rápido. Quiere demostrar que puede.
+[serious] Y es justo él quien cae primero.
+[pause] El que conoce el desierto hace algo que parece de cobardes: se detiene. Busca sombra. Espera.
+[calm] No porque se rinda… sino porque sabe que hay batallas que no se ganan a la fuerza.
+[thoughtful] No todo se resuelve hoy. No todo depende de cuánto empujes.
+[softly] A veces lo más inteligente es esperar el momento correcto… y guardar tus fuerzas para cuando sí cuenten.
+[confident] La prisa no te hace llegar antes. Solo te hace llegar cansado.
+
+=== CAP 3: LA NOCHE ===
+[calm] La tercera lección: la noche.
+[thoughtful] El mismo desierto que quema de día… de noche se congela.
+[softly] Pasa de un extremo al otro en unas horas. Y así también pasas tú.
+[serious] Hay días en los que sientes que puedes con todo… y noches en las que quieres dejarlo todo.
+[pause] Las dos cosas son temporales.
+[calm] Por eso los que cruzan el desierto tienen una regla: nunca cambies el rumbo en medio de la tormenta.
+[thoughtful] No tomes decisiones permanentes con emociones de una noche.
+[softly] Espera a que salga el sol. Respira. Y decide con la mente en calma.
+
+=== CAP 4: LAS DUNAS SE MUEVEN ===
+[calm] La cuarta lección: las dunas se mueven.
+[thoughtful] La montaña de arena que viste ayer… hoy ya no está en el mismo lugar. El viento lo cambia todo, todo el tiempo.
+[serious] Por eso en el desierto no sirve exigir que el camino se quede igual.
+[pause] Tu plan va a cambiar. Las personas van a cambiar. Las cosas que creías seguras se van a mover.
+[thoughtful] Y está bien. No puedes detener el viento.
+[calm] Pero sí puedes aprender a caminar sobre arena que se mueve: pasos más cortos, más firmes, sin pelearte con cada cambio.
+[softly] El que exige que todo se quede quieto, sufre. El que aprende a moverse con el viento… sigue avanzando.
+
+=== CAP 5: EL OASIS ===
+[calm] La quinta lección: el oasis.
+[thoughtful] Después de días de arena, aparece. Agua de verdad. Sombra. Palmeras.
+[softly] Y el viajero se detiene. Bebe. Duerme. Se recupera.
+[serious] Nadie diría que ese viajero se rindió.
+[pause] Entonces, ¿por qué te sientes culpable cuando tú descansas?
+[calm] Descansar no es abandonar el camino. Es parte del camino.
+[thoughtful] El que nunca se detiene en el oasis no llega más rápido. Simplemente no llega.
+[softly] Así que cuando encuentres agua… bebe. Sin culpa. Y luego, sigue.
+
+=== CAP 6: CIERRE ===
+[calm] Y un día, sin aviso, el horizonte cambia.
+[softly] Ves la orilla. Ves el final de la arena.
+[thoughtful] Y miras atrás, y te das cuenta de que el desierto no te robó nada.
+[calm] Te quitó lo que pesaba. Te enseñó a distinguir el agua del espejismo. A esperar. A no decidir de noche. A moverte con el viento. A descansar sin culpa.
+[pause] No saliste igual que como entraste.
+[serious] Saliste más ligero. Más fuerte. Más tú.
+[long pause] Así que si hoy todo se ve igual que ayer… no te detengas.
+[softly] No estás perdido.
+[confident] Estás cruzando.
